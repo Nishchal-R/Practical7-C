@@ -1,5 +1,5 @@
 /* PointerArraysB.c
-   Practical 7, Part 1 (b)
+   Practical 7, Part 1 (d)
    Pointers and arrays - accessing array elements with pointers
    @author your name */
 
